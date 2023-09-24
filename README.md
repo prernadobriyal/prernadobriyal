@@ -3,10 +3,10 @@
 ### Feel free to explore, contribute to projects, or use it as a reference while you embark on your web development journey. Let's code, create, and innovate together! 🚀
 
 ### Connect with me:
-# - LinkedIn: (www.linkedin.com/in/prernadobriyal)
-# - Leetcode: (https://leetcode.com/prernadobriyal/)
+### - LinkedIn: (www.linkedin.com/in/prernadobriyal)
+### - Leetcode: (https://leetcode.com/prernadobriyal/)
 
-# Happy coding! 🌐💻
+## Happy coding! 🌐💻
 
 <!--
 **prernadobriyal/prernadobriyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
