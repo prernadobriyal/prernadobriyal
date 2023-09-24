@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hie👋...I am Prerna Dobriyal, a passionate 4th-year B.Tech CSE-AI student at NIET, share my journey and and expertise in the exciting world of web development. This repository is your go-to resource for learning, experimenting, and mastering various web development technologies and concepts.
+
+### Feel free to explore, contribute to projects, or use it as a reference while you embark on your web development journey. Let's code, create, and innovate together! 🚀
+
+### Connect with me:
+# - LinkedIn: (www.linkedin.com/in/prernadobriyal)
+# - Leetcode: (https://leetcode.com/prernadobriyal/)
+
+# Happy coding! 🌐💻
 
 <!--
 **prernadobriyal/prernadobriyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
