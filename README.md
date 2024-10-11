@@ -1,4 +1,4 @@
-### Hie👋...I am Prerna Dobriyal, a passionate 4th-year B.Tech CSE-AI student at NIET, sharing my journey in the exciting world of web development.
+### Hie👋...I am Prerna Dobriyal, a CSE-AI student sharing my journey in the exciting world of web development.
 
 ### Feel free to explore, contribute to projects, or use it as a reference while you embark on your web development journey. Let's code, create, and innovate together! 🚀
 
